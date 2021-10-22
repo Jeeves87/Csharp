@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = areaCode
-build_property.ProjectDir = C:\Users\kalev\Desktop\proj\Csharp\areaCode\
+build_property.RootNamespace = AreaCodeSheetsProject
+build_property.ProjectDir = C:\Users\kalev\Desktop\AreaCodeSheetsProject\
