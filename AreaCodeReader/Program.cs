@@ -20,9 +20,9 @@ namespace AreaCodeReader
 
             while (true)
             {
-                Console.WriteLine("Enter a US State or territory to receive its associated area code(s).");
-                Console.WriteLine("Or enter a valid US area code to find out its associate state");
-                Console.WriteLine("Or 'quit' to terminate the program.");
+                Console.WriteLine("***   Enter a US State or territory to receive its associated area code(s)   ***");
+                Console.WriteLine("***   Or enter a valid US area code to find out its associate state          ***");
+                Console.WriteLine("***   Or enter 'quit' to terminate the program                               ***");
                 string UserNum = Console.ReadLine();
 
                 for (int z = 0; z < country.Count; z++)  // Loops as many times as there are entries into country 
