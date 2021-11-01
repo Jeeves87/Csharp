@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rU393z1MIPcmNEyM9VY5sFohIlerGKDMuHC03nhsUftugIPQBVVMpPP52NgJz85zkdGk9ALfU4ClPpB3+PufhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kalev\\Desktop\\proj\\Csharp\\AreaCodeReader\\AreaCodeReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalev\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\kalev\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kalev\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\kalev\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\kalev\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
