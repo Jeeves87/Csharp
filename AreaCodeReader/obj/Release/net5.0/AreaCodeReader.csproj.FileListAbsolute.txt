@@ -14,3 +14,4 @@ C:\Users\kalev\Desktop\proj\Csharp\AreaCodeReader\obj\Release\net5.0\AreaCodeRea
 C:\Users\kalev\Desktop\proj\Csharp\AreaCodeReader\obj\Release\net5.0\ref\AreaCodeReader.dll
 C:\Users\kalev\Desktop\proj\Csharp\AreaCodeReader\obj\Release\net5.0\AreaCodeReader.pdb
 C:\Users\kalev\Desktop\proj\Csharp\AreaCodeReader\obj\Release\net5.0\AreaCodeReader.genruntimeconfig.cache
+C:\Users\kalev\Desktop\proj\Csharp\AreaCodeReader\obj\Release\net5.0\AreaCodeReader.csproj.AssemblyReference.cache
